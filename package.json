@@ -1,0 +1,16 @@
+{
+  "name": "tiktok-voz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node SpeechSynthesis.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "microsoft-cognitiveservices-speech-sdk": "^1.22.0"
+  }
+}
